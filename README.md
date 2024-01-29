@@ -8,12 +8,11 @@ Nowadays reviews on every e commerce website is a very essential part of the int
 
 ## BY
 
-| [tanushka Garg](https://github.com/Tanushkagarg) |  
+| [Tanushka Garg](https://github.com/Tanushkagarg) |  
  
 
 ## Libraries/Softwares Used
 
-|Libraries|  
 | :------------: |  
 |Requests |  
 |BeautifulSoup4 |  
