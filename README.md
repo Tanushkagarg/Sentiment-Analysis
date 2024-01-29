@@ -12,7 +12,7 @@ Nowadays reviews on every e commerce website is a very essential part of the int
  
 
 ## Libraries/Softwares Used
-
+|Libraries|
 | :------------: |  
 |Requests |  
 |BeautifulSoup4 |  
